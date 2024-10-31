@@ -1,7 +1,4 @@
-# hello-world
-This repository is for me to practice GitHub flow
-
-## About Me
+# About Me
 My name is Amirul Faez Shamsudin, a Research Assistant at the Tropical Infectious Diseases Research and Education Centre (TIDREC), Universiti Malaya. My research centers on the surveillance of respiratory and vector-borne pathogens in Malaysia.
 
 ## Pathway to Data Science
